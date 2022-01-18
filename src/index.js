@@ -7,7 +7,7 @@ import { asyncWithLDProvider } from "launchdarkly-react-client-sdk";
 import { deviceType, osName } from "react-device-detect";
 import {v4 as uuidv4} from 'uuid';
 
-const CLIENTKEY = "609ead905193530d7c28647b";
+const CLIENTKEY = "61e7303d574f7e16d1e36a4f";
 
 let uuid = uuidv4();
 
